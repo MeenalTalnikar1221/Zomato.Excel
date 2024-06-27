@@ -24,13 +24,13 @@ actionable insights to optimize restaurant operations and enhance customer satis
                           represent the analysed data, making it easier to draw insights and 
                           present findings.
                           
-*Skills and Tools Used :
+**Skills and Tools Used :
 1. Microsoft Excel : Utilised excel for data cleaning, pivot tables, chart creation and
                      dashboard development.
 2. Data Visualization : Created clear and effective charts and graphs to help understand and
                         share the insights from data.
 
-* Conclusion : 
+**Conclusion : 
 The Zomato Data Analysis Project provided valuable insights into customer behavior and restaurant
 performance. the interactive dashboard and visualizations were created to help users better
 understand the data and make informal decisions based on these insights.
